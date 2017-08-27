@@ -1,5 +1,6 @@
 <h1><a href="https://elena-in-code.github.io/Css-Snow-Fall-Animation/"><strong>Snow Fall Effect</strong></a></h1>
 <img src="https://user-images.githubusercontent.com/30567608/29608041-4e70d052-87f3-11e7-952a-8bb607e1d804.PNG">
+<img src="https://user-images.githubusercontent.com/30567608/29748213-e82bfd86-8b11-11e7-8be7-490dbd2483ab.gif" with=180px height=180px>
 <p>Css Snow Fall Animation - Pure CSS- Inspired by <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog"><strong>Online Tutorials</strong></a></p>
 <h3>Technologies used: </h3>
 <ul>
